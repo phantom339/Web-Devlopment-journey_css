@@ -1,0 +1,6 @@
+selectors used-
+element selector-p{}
+class selector-.note{}
+id selector - #main{}
+attribute selector -li[value="4"]{}
+universal selector- *{}
