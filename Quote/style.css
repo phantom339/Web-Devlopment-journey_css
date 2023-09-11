@@ -1,0 +1,21 @@
+html
+{
+    background-color: rgb(0, 0, 0);
+}
+h1
+{
+    font-family: 'Libre Baskerville', sans-serif; 
+    -webkit-text-fill-color:white;
+}
+img
+{
+    border: 5px solid white;
+
+
+}
+div
+{
+    text-align: center;
+    -webkit-text-fill-color: white;
+
+}
